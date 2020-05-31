@@ -104,4 +104,5 @@ async function getTime(){
         bg="sprites/bg2.jpg";
     }
     backgroundImg=loadImage(bg);
+    //cd
 }
